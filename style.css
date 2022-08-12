@@ -1,0 +1,45 @@
+body {
+	background: #2c2c2c
+}
+
+
+.principal{
+	padding: 90px;
+}
+
+.titulo-principal {
+	font-size: 40px;
+	color: #ffffff;
+	padding-left: 50px;
+}
+
+.titulo-centralizado {
+	font-size: 40px;
+	color: #ffffff;
+	text-align: center
+}
+
+p {
+	color: #ffffff;
+	font-size: 20px;
+	text-align:center;
+	
+}
+
+ul {
+	color: #ffffff;
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: top;
+	width: 100%;
+	margin-right: 15%;
+}
+
+.imagemporcentagem {
+	width: 100%;
+}
+
+.imagemlogo {
+	width:14%;
+	margin-left: 43%;
+}
