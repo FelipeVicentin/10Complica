@@ -5,24 +5,14 @@ body {
 
 .principal{
 	padding: 90px;
-}
-
-.titulo-principal {
-	font-size: 40px;
-	color: #ffffff;
-	padding-left: center
-}
-
-.titulo-centralizado {
-	font-size: 40px;
+	font-size: 20px;
 	color: #ffffff;
 	text-align: center
 }
 
-p {
+.titulo-centralizado {
 	color: #ffffff;
-	font-size: 20px;
-	text-align:center;
+	text-align: center
 	
 }
 
@@ -31,6 +21,7 @@ ul {
 	font-size: 20px;
 	display: inline-block;
 }
+
 
 .imagemporcentagem {
 	width: 100%;
