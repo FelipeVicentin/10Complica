@@ -19,13 +19,15 @@ body {
 ul {
 	color: #ffffff;
 	font-size: 20px;
-	display: inline-block;
+	display: block;
+	text-align: justify
 }
 
 
 .imagemporcentagem {
-	width: 100%;
-
+	width: 50%;
+	margin-left: 4%;
+	display: inline
 }
 
 .imagemlogo {
