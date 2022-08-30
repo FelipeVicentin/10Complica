@@ -26,9 +26,16 @@ ul {
 
 .imagemporcentagem {
 	width: 50%;
-	margin-left: 2%;
+	margin-left: 4%;
 	display: inline
 }
+
+.imagemjurossimples {
+	width: 50%;
+	margin-left: 4%;
+	display: inline
+}
+
 
 .imagemlogo {
 	width:14%;
